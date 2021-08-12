@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _2_CriandoVariaveis
+namespace _02_CriandoVariaveis
 {
     class Program
     {
